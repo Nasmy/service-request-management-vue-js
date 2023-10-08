@@ -1,0 +1,18 @@
+{
+  "Select your language":"Sélectionner votre langue",
+  "Dashboard":"Tableau",
+  "Add request":"Ajouter un ticket",
+  "citizen" : {
+    "Citizen": "Citoyen"
+  },
+  "menu" : {
+    "Dashboard":"Tableau",
+    "Add request":"Demande",
+    "Citizen":"Citoyen",
+    "Archive":"Archive",
+    "Settings":"Configurations",
+    "Users":"Utilisateurs",
+    "Roles":"Roles",
+    "Help":"Aide"
+  }
+}

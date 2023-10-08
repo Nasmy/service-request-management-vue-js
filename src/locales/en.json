@@ -1,0 +1,18 @@
+{
+  "Select your language":"Select your language",
+  "Dashboard":"Dashboard",
+  "Add request":"Add request",
+  "citizen" : {
+    "Citizen": "Citizen"
+  },
+  "menu" : {
+    "Dashboard":"Dashboard",
+    "Add request":"Add request",
+    "Citizen":"Citizen",
+    "Archive":"Archive",
+    "Settings":"Settings",
+    "Users":"Users",
+    "Roles":"Roles",
+    "Help":"Help"
+  }
+}
